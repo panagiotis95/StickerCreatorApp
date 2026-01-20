@@ -1,0 +1,8 @@
+{
+  "name": "StickerGenius AI",
+  "description": "Η απόλυτη πλατφόρμα δημιουργίας stickers με τη δύναμη της τεχνητής νοημοσύνης Gemini. Δημιουργήστε, επεξεργαστείτε και κατεβάστε μοναδικά αυτοκόλλητα.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
